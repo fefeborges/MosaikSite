@@ -1,0 +1,70 @@
+html, nav, div, a, body {
+    margin: 0;
+    text-decoration: none;
+}
+body {
+    font-size: 18px;
+    background-color: #F1EFE7 !important;
+    font-family: "math" !important;
+}
+.imagem2 {
+    width: 260px;
+    height: 200px;
+    margin: 0 auto;
+}
+.imagem2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.boxtexto{
+    font-size: 18px;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.campos {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+label{
+    font-size: 18px;
+}
+input{
+    padding: 10px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.anexar{
+   background-color: white;
+   width: 30%;
+   height: 40px;
+   border-radius: 5px;
+   border: 1px solid black;
+}
+.enviar{
+    background-color:rgba(89,77,75,79);
+    color: white;
+    border-radius: 5px;
+    width: 30%;
+    height: 40px;
+}
+
+

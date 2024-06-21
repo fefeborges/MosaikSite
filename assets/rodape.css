@@ -1,0 +1,31 @@
+.rodape {
+    font-size: 18px;
+    height: 350px;
+    background-color: #BBB3A5;
+}
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 105px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.itens {
+    margin-top: 10px;
+}
+.politicapriv {
+    color: white;
+    display: block;
+    justify-content: center;
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+i {
+    font-size: 25px;
+    margin-left: 10px;
+    padding-right: 15px;
+    color: #000000;
+}
